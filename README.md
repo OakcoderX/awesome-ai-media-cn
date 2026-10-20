@@ -131,6 +131,7 @@
 | [autoclip](https://github.com/zhouxiaoka/autoclip) | ![](https://img.shields.io/github/stars/zhouxiaoka/autoclip?style=flat-square) | AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing. |
 | [2ByteASR](https://github.com/NOTBAD314/2ByteASR) | ![](https://img.shields.io/github/stars/NOTBAD314/2ByteASR?style=flat-square) | 兔白字幕：面向中文游戏实况的本地字幕识别与视频编辑工具，支持校对、说话人分轨与特效字幕。当前提供源码，暂无公开安装包。 |
 | [StreamLingo](https://github.com/michael-chow-arch/StreamLingo) | ![](https://img.shields.io/github/stars/michael-chow-arch/StreamLingo?style=flat-square) | YouTube 直播实时 AI 翻译字幕，支持本地 Ollama，英中双向。首次配置，日常双击启动。AI captions for YouTube livestreams with local Ollama. English ↔ Chinese. Windows/NVIDIA preview; setup once, double-click to start. |
+| [vibe-knowledge-video](https://github.com/xiazhuo123456789/vibe-knowledge-video) | ![](https://img.shields.io/github/stars/xiazhuo123456789/vibe-knowledge-video?style=flat-square) | Vibe知识大赏风格 AI 知识视频 Skill — 纯代码生成电影感知识短视频（无配音·双语字幕·合成BGM·历史文献再现），风格规范逆向自 8 条抖音爆款原片（1091 帧逐秒分析） |
 
 ## AI 短剧生成
 
